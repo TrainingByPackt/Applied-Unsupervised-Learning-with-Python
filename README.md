@@ -4,8 +4,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Applied-Unsupervised-Learning-with-Python/pulls)
 
 # Applied Unsupervised Learning with Python
-Unsupervised learning is a useful and practical solution in situations where labeled data is not available. 
-
 Applied Unsupervised Learning with Python guides you on the best practices for using unsupervised learning techniques in tandem with Python libraries and extracting meaningful information from unstructured data. The course begins by explaining how basic clustering works to find similar data points in a set. Once you are well versed with the k-means algorithm and how it operates, you’ll learn what dimensionality reduction is and where to apply it. As you progress, you’ll learn various neural network techniques and how they can improve your model. While studying the applications of unsupervised learning, you will also understand how to mine topics that are trending on Twitter and Facebook and build a news recommendation engine for users. You will complete the course by challenging yourself through various interesting activities such as performing a Market Basket Analysis and identifying relationships between different merchandises. 
 
 By the end of this course, you will have the skills you need to confidently build your own models using Python.
@@ -27,6 +25,6 @@ We recommend the following hardware configuration:
 
 ### Software Requirements
 You'll need the following software installed in advance:
-*	__Operating systems__: Windows 7 SP1 64-bit, Windows 8.1 64-bit, or Windows 10 64-bit; Linux (Ubuntu, Debian, Red Hat, or Suse); or the latest version of OS X
-*	__Python__: 3.6.5 or later, preferably 3.7; available through https://www.python.org/downloads/release/python-371/
+*	__Operating systems__: Windows 7, or 8.1, or 10 64-bit, macOS, Linux
+*	__Python__: 3.6.5 or later is preferred 3.7; available through https://www.python.org/downloads/release/python-371/
 *	__Anaconda__: This is for the basemap module of `mlp_toolkits`; go to https://www.anaconda.com/distribution/, download the 3.7 version, and follow the instructions to install it.
