@@ -26,5 +26,5 @@ We recommend the following hardware configuration:
 ### Software Requirements
 You'll need the following software installed in advance:
 *	__Operating systems__: Windows 7, or 8.1, or 10 64-bit, macOS, Linux
-*	__Python__: 3.6.5 or later is preferred 3.7; available through https://www.python.org/downloads/release/python-371/
-*	__Anaconda__: This is for the basemap module of `mlp_toolkits`; go to https://www.anaconda.com/distribution/, download the 3.7 version, and follow the instructions to install it.
+*	__Python__: 3.6.5 or later is preferred; available through https://www.python.org/downloads/release/python-371/
+*	__Anaconda__: This is for the basemap module of `mlp_toolkits`; go to https://www.anaconda.com/distribution/, download the latest version, and follow the instructions to install it.
