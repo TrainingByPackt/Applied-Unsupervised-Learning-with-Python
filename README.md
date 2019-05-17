@@ -1,5 +1,5 @@
 [![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Applied-Unsupervised-Learning-with-Python.svg)](https://github.com/TrainingByPackt/Applied-Unsupervised-Learning-with-Python/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Applied-Unsupervised-Learning-with-Python.svg)](https://github.com/TrainingByPackt/Applied-Unsupervised-Learning-with-Python/network)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Applied-Unsupervised-Learning-with-Python.svg)](https://github.com/TrainingByPackt/Applied-Unsupervised-Learning-with-Python/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Applied-Unsupervised-Learning-with-Python.svg)](https://github.com/TrainingByPackt/Applied-Unsupervised-Learning-with-Python/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Applied-Unsupervised-Learning-with-Python/pulls)
 
